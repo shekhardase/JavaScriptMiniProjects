@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: #ffff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0px 0px 2px rgba(198, 193, 193, 0.1);
+  max-width: 400px;
+  width: 100%;
+}
+
+.container:hover {
+  box-shadow: 5px 5px 10px rgba(18, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 95%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.result {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.cal-btn {
+  padding: 10px 10px;
+  background: rgb(2, 108, 237);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cal-btn:hover {
+  background: blue;
+  color: white;
+}
