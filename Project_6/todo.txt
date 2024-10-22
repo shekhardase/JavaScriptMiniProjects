@@ -1,0 +1,5 @@
+1. mouse rectangle par aya and move hua ki nhi  ✅
+2. ab calculate karo ki hum center se left par hai ya right par hai? ✅
+3. ab ye calculate karo ki hum center se kitna left hai
+4. jitna left hai utne intensity se colour change karo
+5. Same goes with blue
